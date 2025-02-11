@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Sharkyscripts/JAYY/refs/heads/main/JAYY"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sharkyscripts/jay/refs/heads/main/jay"))()
